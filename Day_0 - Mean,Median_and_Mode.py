@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[13]:
-
-
 def Mean(l):               #function to return mean
     mean=sum(l)/len(l)
     mean=round(mean,1)
